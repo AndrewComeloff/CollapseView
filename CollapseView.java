@@ -23,7 +23,6 @@ public class CollapseView extends LinearLayout {
 
     private static final float ACCELERATION_COLLAPSE = 1.5f;
 //    private final String TAG = getClass().getSimpleName();
-//    private long speedAnimation = 1000 /3;
 
     private FrameLayout contentHeader;
     private LinearLayout contentItems;
